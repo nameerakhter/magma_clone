@@ -1,4 +1,4 @@
-# Magma_website_clone
+# Magma Website Clone
 
 <img src="https://imgtr.ee/images/2023/07/21/50a94ee978c083e2b3bdce162d7ab7b3.png" alt="50a94ee978c083e2b3bdce162d7ab7b3.png" border="0" />
 
