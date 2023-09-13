@@ -1,6 +1,7 @@
 # Project Readme - Magma Website Clone
 
-<img src="https://imgtr.ee/images/2023/07/21/50a94ee978c083e2b3bdce162d7ab7b3.png" alt="50a94ee978c083e2b3bdce162d7ab7b3.png" border="0" />
+<img width="1280" alt="Screenshot 2023-07-21 181317" src="https://github.com/nameerakhter/magma_clone/assets/120779958/a6874ecc-49c8-41a6-8cf8-f17b12a30c3a">
+
 
 # Description
 
