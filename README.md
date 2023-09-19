@@ -1,4 +1,4 @@
-# Project Readme - Magma Website Clone
+# Project Readme - Magma Website Clone.
 
 <img width="1280" alt="Screenshot 2023-07-21 181317" src="https://github.com/nameerakhter/magma_clone/assets/120779958/a6874ecc-49c8-41a6-8cf8-f17b12a30c3a">
 
